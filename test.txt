@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 hello world
 m2
 m3
+=======
+hjgjhfhjfhgf
+djflkgjlsdlkj
+l6
+l7
+>>>>>>> login
